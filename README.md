@@ -51,10 +51,9 @@ Saat aplikasi terbuka, masukkan **Google API Key** (didapat gratis di
 mengaktifkan chatbot.
 
 ## 📸 Screenshot
-> Tambahkan screenshot antarmuka di sini setelah aplikasi dijalankan, contoh:
->
-> `![Tampilan SiagaBot](screenshots/homepage.png)`
-> `![Contoh Percakapan](screenshots/chat-example.png)`
+
+> `![Tampilan SiagaBot](homepage.png)`
+> `![Contoh Percakapan](chat-example.png)`
 
 ## 📁 Struktur Proyek
 ```
@@ -62,7 +61,6 @@ mengaktifkan chatbot.
 ├── app.py              # Kode utama chatbot (Streamlit + LangChain + Gemini)
 ├── requirements.txt    # Daftar dependency
 ├── README.md           # Dokumentasi ini
-└── screenshots/        # (buat folder ini, isi dengan screenshot UI)
 ```
 
 ## 📞 Kontak Darurat Nasional (Indonesia)
