@@ -34,17 +34,22 @@ Chatbot ini menyasar skenario:
      kontekstual agar mudah di-scan saat kondisi panik.
 
 ## ⚙️ Cara Menjalankan
-```bash
-# 1. Clone repository
-git clone <URL_REPO_ANDA>
-cd <nama-folder>
 
-# 2. Install dependencies
+### 1. Clone repository
+\`\`\`bash
+git clone https://github.com/noxsmind/siagabot-disaster-assistant.git
+cd siagabot-disaster-assistant
+\`\`\`
+
+### 2. Install dependencies
+\`\`\`bash
 pip install -r requirements.txt
+\`\`\`
 
-# 3. Jalankan aplikasi
+### 3. Jalankan aplikasi
+\`\`\`bash
 streamlit run app.py
-```
+\`\`\`
 
 Saat aplikasi terbuka, masukkan **Google API Key** (didapat gratis di
 [Google AI Studio](https://aistudio.google.com/app/apikey)) pada kolom di sidebar untuk
