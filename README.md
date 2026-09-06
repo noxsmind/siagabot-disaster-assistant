@@ -60,9 +60,35 @@ mengaktifkan chatbot.
 ## 📸 Screenshot
 
 **Halaman utama**
+
 ![Tampilan SiagaBot](homepage.png)
 
 **Contoh percakapan**
+
 ![Contoh Percakapan](chat-example.png)
 
 ## 📁 Struktur Proyek
+
+```
+.
+├── app.py              # Kode utama chatbot (Streamlit + LangChain + Gemini)
+├── requirements.txt    # Daftar dependency
+├── .gitignore          # Mengabaikan file sensitif (.env)
+├── homepage.png         # Screenshot halaman utama
+├── chat-example.png    # Screenshot contoh percakapan
+└── README.md           # Dokumentasi ini
+```
+
+## 📞 Kontak Darurat Nasional (Indonesia)
+
+| Layanan | Nomor |
+|---|---|
+| Panggilan Darurat | 112 |
+| Ambulans / Kemenkes | 119 |
+| Basarnas (SAR) | 115 |
+| BNPB | 117 |
+| Pemadam Kebakaran | 113 |
+| Polisi | 110 |
+
+---
+© 2026 SiagaBot — AI Agent Project
