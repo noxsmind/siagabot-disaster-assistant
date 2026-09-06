@@ -50,11 +50,6 @@ Saat aplikasi terbuka, masukkan **Google API Key** (didapat gratis di
 [Google AI Studio](https://aistudio.google.com/app/apikey)) pada kolom di sidebar untuk
 mengaktifkan chatbot.
 
-## 📸 Screenshot
-
-> `![Tampilan SiagaBot](homepage.png)`
-> `![Contoh Percakapan](chat-example.png)`
-
 ## 📁 Struktur Proyek
 ```
 .
